@@ -16,7 +16,7 @@ Passionné d'informatique, j'ai participé à plusieurs projets dans le dévelop
 - Site FHS - [controverse.lorcy.dev](https://controverse.lorcy.dev)
 
 ### Webapps
-- Projet Échouage - [echouage.lorcy.dev](https://echouage.lorcy.dev)
+- Projet Échouage - [echouage.lorcy.dev](https://front.echouage.lorcy.dev)
 - Projet Météo - [meteo.lorcy.dev](https://meteo.lorcy.dev)
 - Inventaire - [inventaire.lorcy.dev](https://inventaire.lorcy.dev)
 
