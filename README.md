@@ -6,19 +6,20 @@ Passionné d'informatique, j'ai participé à plusieurs projets dans le dévelop
 - Linkedin : [Benoit Lorcy](https://www.linkedin.com/in/benoit-lorcy/)
 - Email : [benoit.lorcy@gmail.com](mailto:benoit.lorcy@gmail.com)
 - Instagram : [benoit.lorcy](https://www.instagram.com/benoit.lorcy/)
-- Télécharger mon CV : [cv.lorcy.dev](https://cv.lorcy.dev)
+- Télécharger mon CV : [Curriculum Vitae](https://drive.google.com/file/d/1ecDuwtNu3ya91ZqEJDiGTZA85CMOLvRC/view?usp=sharing)
 
 ## 💻 Mes projets web en ligne
 
 ### Sites vitrines
 - RB Auto - [rbauto-occasions.fr](https://rbauto-occasions.fr)
 - Site Armel Lorcy - [arzhel-conseils.fr](https://arzhel-conseils.fr)
-- Site FHS - [truc.info.gf](https://truc.info.gf)
+- Site FHS - [controverse.info.gf](https://controverse.info.gf)
 
 ### Webapps
 - Projet Échouage - [echouage.lorcy.dev](https://echouage.lorcy.dev)
-- Inventaire - [inventaire.lorcy.dev](https://inventaire.lorcy.dev)
 - Projet Météo - [meteo.lorcy.dev](https://meteo.lorcy.dev)
+- Inventaire - [inventaire.lorcy.dev](https://inventaire.lorcy.dev)
+
 
 <!--
 **Benoit-Lorcy/Benoit-Lorcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
