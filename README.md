@@ -10,15 +10,15 @@ Passionné d'informatique, j'ai participé à plusieurs projets dans le dévelop
 
 ## 💻 Mes projets web en ligne
 
-### Sites vitrines
-- RB Auto - [rbauto-occasions.fr](https://rbauto-occasions.fr)
-- Site Armel Lorcy - [arzhel-conseils.fr](https://arzhel-conseils.fr)
-- Site FHS - [controverse.lorcy.dev](https://controverse.lorcy.dev)
-
 ### Webapps
 - Projet Échouage - [echouage.lorcy.dev](https://front.echouage.lorcy.dev)
 - Projet Météo - [meteo.lorcy.dev](https://meteo.lorcy.dev)
 - Inventaire - [inventaire.lorcy.dev](https://inventaire.lorcy.dev)
+
+### Sites vitrines
+- RB Auto - [rbauto-occasions.fr](https://rbauto-occasions.fr)
+- Site Armel Lorcy - [arzhel-conseils.fr](https://arzhel-conseils.fr)
+- Site FHS - [controverse.lorcy.dev](https://controverse.lorcy.dev)
 
 
 <!--
