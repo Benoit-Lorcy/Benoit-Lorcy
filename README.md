@@ -6,7 +6,7 @@ Passionné d'informatique, j'ai participé à plusieurs projets dans le dévelop
 - Linkedin : [Benoit Lorcy](https://www.linkedin.com/in/benoit-lorcy/)
 - Email : [benoit.lorcy@gmail.com](mailto:benoit.lorcy@gmail.com)
 - Instagram : [benoit.lorcy](https://www.instagram.com/benoit.lorcy/)
-- Télécharger mon CV : [Curriculum Vitae](https://drive.google.com/file/d/1ecDuwtNu3ya91ZqEJDiGTZA85CMOLvRC/view?usp=sharing)
+- Télécharger mon CV : [Curriculum Vitae](https://drive.google.com/file/d/1QwPLkv9xOxzYABwVw_swxiyzWWCahu1v/view?usp=sharing)
 
 ## 💻 Mes projets web en ligne
 
