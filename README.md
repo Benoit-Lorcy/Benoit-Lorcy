@@ -2,18 +2,18 @@
 
 Passionné d'informatique, j'ai participé à plusieurs projets dans le développement web et je souhaite mettre pleinement à profit mes compétences et mes connaissances dans une alternance.
 
-## 🌐 Réseaux sociaux
+## Réseaux sociaux
 - Linkedin : [Benoit Lorcy](https://www.linkedin.com/in/benoit-lorcy/)
 - Email : [benoit.lorcy@gmail.com](mailto:benoit.lorcy@gmail.com)
 - Instagram : [benoit.lorcy](https://www.instagram.com/benoit.lorcy/)
-- Télécharger mon CV : [Curriculum Vitae](https://drive.google.com/file/d/1QwPLkv9xOxzYABwVw_swxiyzWWCahu1v/view?usp=sharing)
+- Télécharger mon CV : <a href="https://benoit.lorcy.dev/CV_Benoit_Lorcy.pdf" download>CV</a>
 
-## 💻 Mes projets web en ligne
+## Mes projets web en ligne
 
 ### Webapps
+- Poll - [echouage.lorcy.dev](https://poll.lorcy.dev)
 - Projet Échouage - [echouage.lorcy.dev](https://front.echouage.lorcy.dev)
 - Projet Météo - [meteo.lorcy.dev](https://meteo.lorcy.dev)
-- Inventaire - [inventaire.lorcy.dev](https://inventaire.lorcy.dev)
 
 ### Sites vitrines
 - RB Auto - [rbauto-occasions.fr](https://rbauto-occasions.fr)
